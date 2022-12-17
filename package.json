@@ -1,0 +1,25 @@
+{
+  "name": "think-out-loud-api",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalalaviv/Think-Out-Loud-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalalaviv/Think-Out-Loud-API/issues"
+  },
+  "homepage": "https://github.com/lalalaviv/Think-Out-Loud-API#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mongoose": "^6.8.0"
+  }
+}
