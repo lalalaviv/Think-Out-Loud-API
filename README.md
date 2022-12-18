@@ -26,6 +26,7 @@ This is an API for a social network web application where users can share their 
 
   - VS Code
   - Node.js
+  - MongoDB [Installation instructions available on MongoDB website](https://www.mongodb.com/docs/manual/installation/)
   
   In the terminal of VS Code please run the following command: 
   ```bash
@@ -44,7 +45,10 @@ npm start
 
 - When the server is started, the Mongoose models are synched to the MongoDB database.
 - Open MongoDB and connect to the MongoDB URI `mongodb://localhost:27017`.
-- On the list of databases, click on socialmedia to see thoughts and users data.
+- On the list of databases, click on thinkoutloudDB to see users and thoughts data.
+
+![Image showing MongoDB users](./Assets/MongoDB%20users.png)
+![Image showing MongoDB thoughts](./Assets/MongoDB%20thoughts.png)
 <br/>
 
 A user can utilize this API to create a new user with a valid username and email, add other users as friends, post "thoughts" as well as "reactions" to thoughts, update and delete thoughts and reactions, and delete friends.
