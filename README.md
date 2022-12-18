@@ -4,7 +4,7 @@
 
 This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
  It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and native JavaScript Date object to format timestamps. The seed data is created using Insomnia.
- 
+
 ## Table of Contents
 - [Think Out Loud API](#think-out-loud-api)
   - [Description](#description)
@@ -75,16 +75,22 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 The following animation shows how to start the application
 ![Demo of starting applicaiton](https://user-images.githubusercontent.com/106384519/208295167-af370d54-5286-4440-bf7e-821931cb912a.mp4)
+https://user-images.githubusercontent.com/106384519/208295167-af370d54-5286-4440-bf7e-821931cb912a.mp4
 
 The following animations show examples of the application's API routes being tested in Insomnia.
 
 The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
 
-![Demo of GET routes to return all users and all thoughts being tested in Insomnia.](./Assets/18-nosql-homework-demo-01.gif)
+![Demo of GET routes to return all users being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295445-2814f3eb-cc55-466e-8fe7-899f995e890f.mp4)
+https://user-images.githubusercontent.com/106384519/208295445-2814f3eb-cc55-466e-8fe7-899f995e890f.mp4
+
+![Demo of GET routes to return all thoughts being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295474-8a00e00f-0315-4268-8e42-64b445e616ee.mp4)
+https://user-images.githubusercontent.com/106384519/208295474-8a00e00f-0315-4268-8e42-64b445e616ee.mp4
+
 
 The following animation shows GET routes to return a single user and a single thought being tested in Insomnia:
 
-![Demo that shows GET routes to return a single user and a single thought being tested in Insomnia.](./Assets/18-nosql-homework-demo-02.gif)
+![Demo that shows GET routes to return a single user being tested in Insomnia.](./Assets/18-nosql-homework-demo-02.gif)
 
 The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia:
 
