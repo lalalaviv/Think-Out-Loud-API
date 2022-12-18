@@ -46,7 +46,7 @@ npm start
 - When the server is started, the Mongoose models are synched to the MongoDB database.
 - Open MongoDB and connect to the MongoDB URI `mongodb://localhost:27017`.
 - On the list of databases, click on thinkoutloudDB to see users and thoughts data.
-
+![Image showing MongoDB connection](./Assets/MongoDB.png)
 ![Image showing MongoDB users](./Assets/MongoDB%20users.png)
 ![Image showing MongoDB thoughts](./Assets/MongoDB%20thoughts.png)
 <br/>
