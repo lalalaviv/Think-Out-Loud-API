@@ -3,7 +3,8 @@
 ## Description
 
 This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
-
+ It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and native JavaScript Date object to format timestamps. The seed data is created using Insomnia.
+ 
 ## Table of Contents
 - [Think Out Loud API](#think-out-loud-api)
   - [Description](#description)
@@ -71,6 +72,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Mock Up
+
+The following animation shows how to start the application
+![Demo of starting applicaiton](https://user-images.githubusercontent.com/106384519/208295167-af370d54-5286-4440-bf7e-821931cb912a.mp4)
 
 The following animations show examples of the application's API routes being tested in Insomnia.
 
