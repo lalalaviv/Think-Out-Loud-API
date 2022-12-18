@@ -73,7 +73,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Mock Up
 
+(Links are also attached below in case there are any issues with video display)
+
 The following animation shows how to start the application
+
 ![Demo of starting applicaiton](https://user-images.githubusercontent.com/106384519/208295167-af370d54-5286-4440-bf7e-821931cb912a.mp4)
 https://user-images.githubusercontent.com/106384519/208295167-af370d54-5286-4440-bf7e-821931cb912a.mp4
 
@@ -90,20 +93,51 @@ https://user-images.githubusercontent.com/106384519/208295474-8a00e00f-0315-4268
 
 The following animation shows GET routes to return a single user and a single thought being tested in Insomnia:
 
-![Demo that shows GET routes to return a single user being tested in Insomnia.](./Assets/18-nosql-homework-demo-02.gif)
+![Demo that shows GET routes to return a single user being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208296103-d9f39781-3347-48b9-983d-f045388a819f.mp4)
+https://user-images.githubusercontent.com/106384519/208296103-d9f39781-3347-48b9-983d-f045388a819f.mp4
+
+![Demo that shows GET routes to return a single thought being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208296122-6a8a89c1-71b0-42ef-b2d8-e0b38ee4209e.mp4)
+https://user-images.githubusercontent.com/106384519/208296122-6a8a89c1-71b0-42ef-b2d8-e0b38ee4209e.mp4
+
 
 The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia:
 
-![Demo that shows the POST, PUT, and DELETE routes for users being tested in Insomnia.](./Assets/18-nosql-homework-demo-03.gif)
+![Demo that shows the POST routes for users being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295514-cc1d9525-0021-4566-81bc-a314f7c39f46.mp4)
+https://user-images.githubusercontent.com/106384519/208295514-cc1d9525-0021-4566-81bc-a314f7c39f46.mp4
 
-In addition to this, your walkthrough video should show the POST, PUT, and DELETE routes for thoughts being tested in Insomnia.
+![Demo that shows the PUT routes for users being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295559-cbfe3a79-9931-41f5-b937-7298fcdabbde.mp4)
+https://user-images.githubusercontent.com/106384519/208295559-cbfe3a79-9931-41f5-b937-7298fcdabbde.mp4
+
+![Demo that shows the DELETE routes for users being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295602-e5e9a619-2d5d-4076-91a6-872d6af972db.mp4)
+https://user-images.githubusercontent.com/106384519/208295602-e5e9a619-2d5d-4076-91a6-872d6af972db.mp4
+
+
+The following animation shows the POST, PUT, and DELETE routes for thoughts being tested in Insomnia:
+
+![Demo that shows the POST routes for thoughts being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295618-697e7177-8e9c-419c-a002-91b0716e279c.mp4)
+https://user-images.githubusercontent.com/106384519/208295618-697e7177-8e9c-419c-a002-91b0716e279c.mp4
+
+![Demo that shows the PUT routes for thoughts being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295653-52750808-4836-4fc1-949d-ebb8e397f231.mp4)
+https://user-images.githubusercontent.com/106384519/208295653-52750808-4836-4fc1-949d-ebb8e397f231.mp4
+
+![Demo that shows the DELETE routes for thoughts being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295691-ef21914a-dc1c-46d4-8213-5e22dd50b25d.mp4)
+https://user-images.githubusercontent.com/106384519/208295691-ef21914a-dc1c-46d4-8213-5e22dd50b25d.mp4
 
 The following animation shows the POST and DELETE routes for a user’s friend list being tested in Insomnia:
 
-![Demo that shows the POST and DELETE routes for a user’s friend list being tested in Insomnia.](./Assets/18-nosql-homework-demo-04.gif)
+![Demo that shows the POST routes for a user’s friend list being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295803-a793a243-862b-4381-abe0-f104824ff1bd.mp4)
+https://user-images.githubusercontent.com/106384519/208295803-a793a243-862b-4381-abe0-f104824ff1bd.mp4
 
-In addition to this, your walkthrough video should show the POST and DELETE routes for reactions to thoughts being tested in Insomnia.
+![Demo that shows the DELETE routes for a user’s friend list being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295823-1cac7474-8815-4cff-8dad-53bcb8ed98fe.mp4)
+https://user-images.githubusercontent.com/106384519/208295823-1cac7474-8815-4cff-8dad-53bcb8ed98fe.mp4
 
+The following animation shows the POST and DELETE routes for reactions to thoughts being tested in Insomnia: 
+
+![Demo that shows the POST routes for reactions being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295749-0ea7a6ef-df85-453c-819a-6a1d32995437.mp4)
+https://user-images.githubusercontent.com/106384519/208295749-0ea7a6ef-df85-453c-819a-6a1d32995437.mp4
+
+![Demo that shows the DELETE routes for reactions being tested in Insomnia.](https://user-images.githubusercontent.com/106384519/208295771-f72e519a-866c-4d4e-930a-b7c80780dee7.mp4)
+https://user-images.githubusercontent.com/106384519/208295771-f72e519a-866c-4d4e-930a-b7c80780dee7.mp4
 
 ## Technologies
 - JavaScript
